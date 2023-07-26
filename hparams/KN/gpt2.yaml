@@ -1,0 +1,11 @@
+alg_name: "KN"
+model_name: "/u/andrewliu/EasyEdit/hugging-cache/gpt2"
+device: 1
+
+lr_scale: 1.0
+n_toks: 10
+refine: True
+batch_size: 1
+steps: 20
+adaptive_threshold: 0.2
+p: 0.7
